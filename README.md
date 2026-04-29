@@ -1,0 +1,1 @@
+This project aims to divide customers into segments based on RFMI method and K-Means Clustering Model, which in turn creates tailored marketing strategies according to the customer behavior, characteristics, and needs.
